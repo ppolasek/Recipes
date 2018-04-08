@@ -1,0 +1,8 @@
+name: Recipes
+version: 0.1.0+1
+description: Keep track of all of your favorite recipes and where they're located.
+dependencies:
+  flutter:
+    sdk: flutter
+  intl:
+  intl_translation:

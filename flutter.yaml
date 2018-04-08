@@ -1,0 +1,15 @@
+name: Recipes
+uses-material-design: true
+assets:
+  - gallery/appetizers.jpeg
+  - gallery/breakfast.jpeg
+  - gallery/cover.jpg
+  - gallery/desserts.jpeg
+  - gallery/dinner.jpeg
+  - gallery/logo_big.jpeg
+  - gallery/logo_icon.jpeg
+  - gallery/logo_icon_24.jpeg
+  - gallery/logo_icon_32.jpeg
+  - gallery/logo_medium.jpeg
+  - gallery/logo_small.jpg
+  - gallery/lunch.jpeg

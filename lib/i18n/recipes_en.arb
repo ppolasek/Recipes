@@ -1,0 +1,8 @@
+{
+  "RecipeStrings_title": "My Favorite Recipes",
+  "@RecipeStrings_title": {
+    "description": "Title for the My Favorite Recipes application",
+    "type": "text",
+    "placeholders": {}
+  }
+}
